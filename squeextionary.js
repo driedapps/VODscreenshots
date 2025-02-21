@@ -159,6 +159,12 @@ export const vods = [
         vodlink: 'https://www.youtube.com/watch?v=EF4onHvjbo0'
     },
     {
+        filepath: 'screenshots/shot28.png',
+        voddate: '05-01-2024',
+        game: 'Grand Theft Auto V',
+        vodlink: 'https://www.youtube.com/watch?v=QGYpa2puIRU'
+    },
+    {
         filepath: 'screenshots/shot.png',
         voddate: '',
         game: '',
@@ -169,7 +175,7 @@ export const vods = [
         voddate: '',
         game: '',
         vodlink: ''
-    },
+    },   
     {
         filepath: 'screenshots/shot.png',
         voddate: '',
