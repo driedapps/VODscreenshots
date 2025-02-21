@@ -147,10 +147,10 @@ export const vods = [
         vodlink: 'https://www.youtube.com/watch?v=ytxI5H4uQrc'
     },
     {
-        filepath: 'screenshots/shot.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        filepath: 'screenshots/shot26.png',
+        voddate: '09-25-2024',
+        game: 'Spectre Divide',
+        vodlink: 'https://www.youtube.com/watch?v=DNDdK3Olos8'
     },
     {
         filepath: 'screenshots/shot.png',
@@ -158,6 +158,13 @@ export const vods = [
         game: '',
         vodlink: ''
     },
+        {
+        filepath: 'screenshots/shot.png',
+        voddate: '',
+        game: '',
+        vodlink: ''
+    },
+        },
         {
         filepath: 'screenshots/shot.png',
         voddate: '',
