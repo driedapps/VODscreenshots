@@ -183,6 +183,12 @@ export const vods = [
         vodlink: 'https://www.youtube.com/watch?v=YMSVSTcqyy0'
     },
     {
+        filepath: 'screenshots/shot32.png',
+        voddate: '03-01-2024',
+        game: 'Multiplayer Platform Golf',
+        vodlink: 'https://www.youtube.com/watch?v=whPnCGdTveY'
+    },
+    {
         filepath: 'screenshots/shot.png',
         voddate: '',
         game: '',
