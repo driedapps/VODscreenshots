@@ -165,10 +165,10 @@ export const vods = [
         vodlink: 'https://www.youtube.com/watch?v=QGYpa2puIRU'
     },
     {
-        filepath: 'screenshots/shot.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        filepath: 'screenshots/shot29.png',
+        voddate: '05-07-2024',
+        game: 'Just Chatting',
+        vodlink: 'https://www.youtube.com/watch?v=w-CLBTfKr-0'
     },
     {
         filepath: 'screenshots/shot.png',
@@ -182,4 +182,11 @@ export const vods = [
         game: '',
         vodlink: ''
     },
+    {
+        filepath: 'screenshots/shot.png',
+        voddate: '',
+        game: '',
+        vodlink: ''
+    },
+]
 ]
