@@ -177,6 +177,12 @@ export const vods = [
         vodlink: 'https://www.youtube.com/watch?v=WGGFv_oQYKY'
     },   
     {
+        filepath: 'screenshots/shot31.png',
+        voddate: '03-26-2024',
+        game: 'Stardew Valley',
+        vodlink: 'https://www.youtube.com/watch?v=YMSVSTcqyy0'
+    },
+    {
         filepath: 'screenshots/shot.png',
         voddate: '',
         game: '',
