@@ -141,10 +141,10 @@ export const vods = [
         vodlink: 'https://www.youtube.com/watch?v=Kbe6mpEDMrc'
     },
     {
-        filepath: 'screenshots/shot.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        filepath: 'screenshots/shot25.png',
+        voddate: '02-04-2025',
+        game: 'Shawarma Legend',
+        vodlink: 'https://www.youtube.com/watch?v=ytxI5H4uQrc'
     },
     {
         filepath: 'screenshots/shot.png',
@@ -153,6 +153,12 @@ export const vods = [
         vodlink: ''
     },
     {
+        filepath: 'screenshots/shot.png',
+        voddate: '',
+        game: '',
+        vodlink: ''
+    },
+        {
         filepath: 'screenshots/shot.png',
         voddate: '',
         game: '',
