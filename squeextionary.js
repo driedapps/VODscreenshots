@@ -201,6 +201,12 @@ export const vods = [
         vodlink: 'https://www.youtube.com/watch?v=Aqe5ytzfTXk'
     },
     {
+        filepath: 'screenshots/shot35.png',
+        voddate: '09-25-2024',
+        game: 'Team Fortress 2',
+        vodlink: 'https://www.youtube.com/watch?v=kZxDmD153Hw'
+    },
+    {
         filepath: 'screenshots/shot.png',
         voddate: '',
         game: '',
