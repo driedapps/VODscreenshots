@@ -190,9 +190,15 @@ export const vods = [
     },
     {
         filepath: 'screenshots/shot33.png',
-        voddate: '05-13-23',
+        voddate: '05-13-2023',
         game: 'Fall Guys',
         vodlink: 'https://www.youtube.com/watch?v=rCfVHjdSAB8'
+    },
+    {
+        filepath: 'screenshots/shot34.png',
+        voddate: '11-01-2024',
+        game: 'Call of Duty: Black Ops 6',
+        vodlink: 'https://www.youtube.com/watch?v=Aqe5ytzfTXk'
     },
     {
         filepath: 'screenshots/shot.png',
