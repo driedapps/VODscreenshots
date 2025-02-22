@@ -207,6 +207,12 @@ export const vods = [
         vodlink: 'https://www.youtube.com/watch?v=kZxDmD153Hw'
     },
     {
+        filepath: 'screenshots/shot36.png',
+        voddate: '12-15-2020',
+        game: 'Super Mario 64',
+        vodlink: 'https://clips.twitch.tv/AnimatedBombasticDragonfruitPartyTime'
+    },
+    {
         filepath: 'screenshots/shot.png',
         voddate: '',
         game: '',
