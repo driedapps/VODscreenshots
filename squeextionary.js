@@ -225,6 +225,12 @@ export const vods = [
         vodlink: 'https://www.youtube.com/watch?v=S5oSpE2dFyk'
     },
     {
+        filepath: 'screenshots/shot39.png',
+        voddate: '09-30-2024',
+        game: 'Balatro',
+        vodlink: 'https://www.youtube.com/watch?v=EqlsAq5pD_M'
+    },
+    {
         filepath: 'screenshots/shot.png',
         voddate: '',
         game: '',
