@@ -231,6 +231,12 @@ export const vods = [
         vodlink: 'https://www.youtube.com/watch?v=EqlsAq5pD_M'
     },
     {
+        filepath: 'screenshots/shot40.png',
+        voddate: '12-14-2021',
+        game: 'Minecraft',
+        vodlink: 'https://clips.twitch.tv/ScrumptiousMoldyGerbilSMOrc-hRNechP8T6AQAkdw'
+    },
+    {
         filepath: 'screenshots/shot.png',
         voddate: '',
         game: '',
