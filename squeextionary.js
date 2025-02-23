@@ -213,6 +213,12 @@ export const vods = [
         vodlink: 'https://clips.twitch.tv/AnimatedBombasticDragonfruitPartyTime'
     },
     {
+        filepath: 'screenshots/shot37.png',
+        voddate: '01-06-2024',
+        game: 'Grand Theft Auto V',
+        vodlink: 'https://www.youtube.com/watch?v=vREtLwjc3NE'
+    },
+    {
         filepath: 'screenshots/shot.png',
         voddate: '',
         game: '',
