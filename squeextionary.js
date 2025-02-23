@@ -219,6 +219,12 @@ export const vods = [
         vodlink: 'https://www.youtube.com/watch?v=vREtLwjc3NE'
     },
     {
+        filepath: 'screenshots/shot38.png',
+        voddate: '10-16-2024',
+        game: 'TCG Card Shop Simulator',
+        vodlink: 'https://www.youtube.com/watch?v=S5oSpE2dFyk'
+    },
+    {
         filepath: 'screenshots/shot.png',
         voddate: '',
         game: '',
