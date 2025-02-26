@@ -237,6 +237,12 @@ export const vods = [
         vodlink: 'https://clips.twitch.tv/ScrumptiousMoldyGerbilSMOrc-hRNechP8T6AQAkdw'
     },
     {
+        filepath: 'screenshots/shot41.png',
+        voddate: '12-1-2024',
+        game: 'Counter-Strike',
+        vodlink: 'https://www.youtube.com/watch?v=K_WK2WY2FIc'
+    },
+    {
         filepath: 'screenshots/shot.png',
         voddate: '',
         game: '',
