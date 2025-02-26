@@ -243,6 +243,96 @@ export const vods = [
         vodlink: 'https://www.youtube.com/watch?v=K_WK2WY2FIc'
     },
     {
+        filepath: 'screenshots/shot42.png',
+        voddate: '05-18-2022',
+        game: 'The Closing Shift',
+        vodlink: 'https://www.youtube.com/watch?v=3F-yR-TDVA4'
+    },
+    {
+        filepath: 'screenshots/shot43.png',
+        voddate: '05-29-2022',
+        game: 'The Legend of Zelda: Wind Waker',
+        vodlink: 'https://www.youtube.com/watch?v=BVV3nZLBszI'
+    },
+    {
+        filepath: 'screenshots/shot.png',
+        voddate: '',
+        game: '',
+        vodlink: ''
+    },
+    {
+        filepath: 'screenshots/shot.png',
+        voddate: '',
+        game: '',
+        vodlink: ''
+    },
+    {
+        filepath: 'screenshots/shot.png',
+        voddate: '',
+        game: '',
+        vodlink: ''
+    },
+    {
+        filepath: 'screenshots/shot.png',
+        voddate: '',
+        game: '',
+        vodlink: ''
+    },
+    {
+        filepath: 'screenshots/shot.png',
+        voddate: '',
+        game: '',
+        vodlink: ''
+    },
+    {
+        filepath: 'screenshots/shot.png',
+        voddate: '',
+        game: '',
+        vodlink: ''
+    },
+    {
+        filepath: 'screenshots/shot.png',
+        voddate: '',
+        game: '',
+        vodlink: ''
+    },
+    {
+        filepath: 'screenshots/shot.png',
+        voddate: '',
+        game: '',
+        vodlink: ''
+    },
+    {
+        filepath: 'screenshots/shot.png',
+        voddate: '',
+        game: '',
+        vodlink: ''
+    },
+    {
+        filepath: 'screenshots/shot.png',
+        voddate: '',
+        game: '',
+        vodlink: ''
+    },
+    {
+        filepath: 'screenshots/shot.png',
+        voddate: '',
+        game: '',
+        vodlink: ''
+    },
+    {
+        filepath: 'screenshots/shot.png',
+        voddate: '',
+        game: '',
+        vodlink: ''
+    },
+    {
+        filepath: 'screenshots/shot.png',
+        voddate: '',
+        game: '',
+        vodlink: ''
+    },
+    {
         filepath: 'screenshots/shot.png',
         voddate: '',
         game: '',
