@@ -297,10 +297,10 @@ export const vods = [
         vodlink: 'https://www.youtube.com/watch?v=lZhiNO55O3Y'
     },
     {
-        filepath: 'screenshots/shot.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        filepath: 'screenshots/shot51.png',
+        voddate: '6-6-2025',
+        game: 'Mario Kart World',
+        vodlink: 'https://www.youtube.com/watch?v=I3Z1Ods_OPM'
     },
     {
         filepath: 'screenshots/shot.png',
