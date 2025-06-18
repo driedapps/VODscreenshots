@@ -303,10 +303,10 @@ export const vods = [
         vodlink: 'https://www.youtube.com/watch?v=I3Z1Ods_OPM'
     },
     {
-        filepath: 'screenshots/shot.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        filepath: 'screenshots/shot52.png',
+        voddate: '5-6-2025',
+        game: 'Mario Kart 8 Deluxe',
+        vodlink: 'https://www.youtube.com/watch?v=FRmyC_XzJ4I'
     },
     {
         filepath: 'screenshots/shot.png',
@@ -345,6 +345,30 @@ export const vods = [
         vodlink: ''
     },
     {
+        filepath: 'screenshots/shot.png',
+        voddate: '',
+        game: '',
+        vodlink: ''
+    },
+        {
+        filepath: 'screenshots/shot.png',
+        voddate: '',
+        game: '',
+        vodlink: ''
+    },
+        {
+        filepath: 'screenshots/shot.png',
+        voddate: '',
+        game: '',
+        vodlink: ''
+    },
+        {
+        filepath: 'screenshots/shot.png',
+        voddate: '',
+        game: '',
+        vodlink: ''
+    },
+        {
         filepath: 'screenshots/shot.png',
         voddate: '',
         game: '',
