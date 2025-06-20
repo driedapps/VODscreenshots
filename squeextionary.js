@@ -448,81 +448,81 @@ export const vods = [
     },
     {
         filepath: 'screenshots/shot76.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '3-16-2023',
+        game: 'Jump King',
+        vodlink: 'https://www.youtube.com/watch?v=J8K5AeB6adU'
     },
     {
         filepath: 'screenshots/shot77.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '3-23-2023',
+        game: 'IRL',
+        vodlink: 'https://www.youtube.com/watch?v=2i-vNRZ5BAw'
     },
     {
         filepath: 'screenshots/shot78.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '4-4-2023',
+        game: 'Just Chatting',
+        vodlink: 'https://www.youtube.com/watch?v=kEFGZsiUWbg'
     },
     {
         filepath: 'screenshots/shot79.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '4-17-2023',
+        game: 'Super Mario 64',
+        vodlink: 'https://www.youtube.com/watch?v=f_kzYEkkcVk'
     },
     {
         filepath: 'screenshots/shot80.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '4-20-2023',
+        game: 'Just Chatting',
+        vodlink: 'https://www.youtube.com/watch?v=JK_M18__lrk'
     },
     {
         filepath: 'screenshots/shot81.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '5-25-2023',
+        game: 'Mario Party Superstars',
+        vodlink: 'https://www.youtube.com/watch?v=0SY__XqRpzw'
     },
         {
         filepath: 'screenshots/shot82.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '5-19-2023',
+        game: 'IRL',
+        vodlink: 'https://www.youtube.com/watch?v=_fFt-AGOpc8'
     },
         {
         filepath: 'screenshots/shot83.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '6-21-2023',
+        game: 'We Love Katamari REROLL Royal Reverie',
+        vodlink: 'https://www.youtube.com/watch?v=i_rdZOWpPZw'
     },
         {
         filepath: 'screenshots/shot84.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '6-26-2023',
+        game: 'Minecraft',
+        vodlink: 'https://www.youtube.com/watch?v=03dW9kpDRyk'
     },
         {
         filepath: 'screenshots/shot85.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '7-17-2023',
+        game: 'Tetrio',
+        vodlink: 'https://www.youtube.com/watch?v=4wYrukGK5Pw'
     },
     {
         filepath: 'screenshots/shot86.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '7-31-2023',
+        game: 'Chess',
+        vodlink: 'https://www.youtube.com/watch?v=rE6dTWTBFNo'
     },
     {
         filepath: 'screenshots/shot87.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '8-3-2023',
+        game: 'Pikmin 4',
+        vodlink: 'https://www.youtube.com/watch?v=I3glbkib_So'
     },
     {
         filepath: 'screenshots/shot88.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '8-21-2023',
+        game: 'Yoshis Crafted World',
+        vodlink: 'https://www.youtube.com/watch?v=1KhBekEox7c'
     },
     {
         filepath: 'screenshots/shot89.png',
