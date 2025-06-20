@@ -340,33 +340,33 @@ export const vods = [
     },
     {
         filepath: 'screenshots/shot58.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '12-21-2022',
+        game: 'WarioWare: Get It Together!',
+        vodlink: 'https://www.youtube.com/watch?v=NVrvlt-r5aA'
     },
     {
         filepath: 'screenshots/shot59.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '1-14-2016',
+        game: 'Bully: Scholarship Edition',
+        vodlink: 'https://www.youtube.com/watch?v=hFsRxNm2edY'
     },
         {
         filepath: 'screenshots/shot60.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '1-11-2023',
+        game: 'Super Monkey Ball: Banana Mania',
+        vodlink: 'https://www.youtube.com/watch?v=jpjHMMJ9AmQ'
     },
         {
         filepath: 'screenshots/shot61.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '1-9-2023',
+        game: 'Just Chatting',
+        vodlink: 'https://www.youtube.com/watch?v=70SeZAYSzDI'
     },
         {
         filepath: 'screenshots/shot62.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '1-9-2023',
+        game: 'Roller Coaster Tycoon',
+        vodlink: 'https://www.youtube.com/watch?v=qFGUjyer2V8'
     },
         {
         filepath: 'screenshots/shot63.png',
