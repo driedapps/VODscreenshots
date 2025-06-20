@@ -310,33 +310,33 @@ export const vods = [
     },
      {
         filepath: 'screenshots/shot53.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '6-18-2022',
+        game: 'Resident Evil 7: Biohazard',
+        vodlink: 'https://www.youtube.com/watch?v=t5vlGrcNa64'
     },
     {
         filepath: 'screenshots/shot54.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '9-30-2022',
+        game: 'Marvels Spiderman',
+        vodlink: 'https://www.youtube.com/watch?v=onRlYETo0iQ'
     },
     {
         filepath: 'screenshots/shot55.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '10-13-2022',
+        game: 'Just Chatting',
+        vodlink: 'https://www.youtube.com/watch?v=0hz21ahVqKc'
     },
     {
         filepath: 'screenshots/shot56.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '10-22-2022',
+        game: 'Brain Age',
+        vodlink: 'https://www.youtube.com/watch?v=Gat0ZnElPpg'
     },
     {
         filepath: 'screenshots/shot57.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '10-31-2022',
+        game: 'Super Mario 64',
+        vodlink: 'https://www.youtube.com/watch?v=poRLmGsAO4o'
     },
     {
         filepath: 'screenshots/shot58.png',
