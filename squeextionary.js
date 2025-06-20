@@ -370,45 +370,45 @@ export const vods = [
     },
         {
         filepath: 'screenshots/shot63.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '1-21-2023',
+        game: 'Just Chatting',
+        vodlink: 'https://www.youtube.com/watch?v=MHfiFU1fQvI&t=7415s'
     },
     {
         filepath: 'screenshots/shot64.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '10-28-2022',
+        game: 'Resident Evil 2',
+        vodlink: 'https://www.youtube.com/watch?v=Ho1cxXvhANU'
     },
     {
         filepath: 'screenshots/shot65.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '9-3-2023',
+        game: 'Donkey Kong Tropical Freeze',
+        vodlink: 'https://www.youtube.com/watch?v=8lXTWiCht9E'
     },
     {
         filepath: 'screenshots/shot66.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '12-25-2022',
+        game: 'Superliminal',
+        vodlink: 'https://www.youtube.com/watch?v=KWmcenwV838'
     },
     {
         filepath: 'screenshots/shot67.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '12-31-2022',
+        game: 'Garfield: Furious Racing',
+        vodlink: 'https://www.youtube.com/watch?v=8C0fOXkp1m0'
     },
     {
         filepath: 'screenshots/shot68.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '2-1-2023',
+        game: 'Mario Kart: Super Circuit',
+        vodlink: 'https://www.youtube.com/watch?v=6MBFCpLrM8Y'
     },
     {
         filepath: 'screenshots/shot69.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '2-1-2019',
+        game: 'Sekiro: Shadows Die Twice',
+        vodlink: 'https://www.youtube.com/watch?v=HOGB_19QICs'
     },
     {
         filepath: 'screenshots/shot70.png',
