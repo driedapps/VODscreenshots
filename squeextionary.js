@@ -412,39 +412,39 @@ export const vods = [
     },
     {
         filepath: 'screenshots/shot70.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '2-2-2019',
+        game: 'Limbo',
+        vodlink: 'https://www.youtube.com/watch?v=MYlOxuaMhbE'
     },
         {
         filepath: 'screenshots/shot71.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '2-7-2019',
+        game: 'INSIDE',
+        vodlink: 'https://www.youtube.com/watch?v=InMq8uadY6U'
     },
         {
         filepath: 'screenshots/shot72.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '2-5-2023',
+        game: 'Spongebob: The Cosmic Shake',
+        vodlink: 'https://www.youtube.com/watch?v=IkA7s_k_r-4'
     },
         {
         filepath: 'screenshots/shot73.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '2-10-2023',
+        game: 'Hitman Freelancer',
+        vodlink: 'https://www.youtube.com/watch?v=VE2vWgYgOrc'
     },
         {
         filepath: 'screenshots/shot74.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '02-17-2023',
+        game: 'Mario Kart 8',
+        vodlink: 'https://www.youtube.com/watch?v=YtSvbphtz7s'
     },
     {
         filepath: 'screenshots/shot75.png',
-        voddate: '',
-        game: '',
-        vodlink: ''
+        voddate: '02-26-2023',
+        game: 'Super Mario 64',
+        vodlink: 'https://www.youtube.com/watch?v=GommWGATBy0'
     },
     {
         filepath: 'screenshots/shot76.png',
