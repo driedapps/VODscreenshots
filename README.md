@@ -9,4 +9,4 @@ This is a group repo to add screenshots and VOD info to the squeextionary array.
     <li><i>vodlink:</i> link to the video (vod, clip, highlight, etc)</li>
 </ul>
 <br><br>
-This will be uploaded to https://github.com/driedapps/driedapps.github.io which hosts the code for http://squeexle.com
+This will be uploaded to https://github.com/driedapps/driedapps.github.io which hosts the code for https://squeexle.com
