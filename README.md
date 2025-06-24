@@ -1,7 +1,10 @@
 This is a group repo to add screenshots and VOD info to the squeextionary array.<br><br>
 
+<h3>Uploaded 201 screenshots</h3>
+<b>Last day added from SqueexVODs: 6/23/2025</b><br>
+Anything else added should be uploaded after that
 
-<h3>Squeextionary info:</h3>
+<h4>Squeextionary info:</h4>
 <ul>
     <li><i>filepath:</i> screenshot path</li> 
     <li><i>voddate:</i> date of upload (whatever the link says)</li>
