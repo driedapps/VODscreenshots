@@ -257,7 +257,7 @@ export const vods = [
     {
         filepath: 'screenshots/shot44.png',
         voddate: '06-23-2022',
-        game: 'Counter Strike',
+        game: 'Counter-Strike',
         vodlink: 'https://www.youtube.com/watch?v=sbHn3SNcs-k'
     },
     {
@@ -737,7 +737,7 @@ export const vods = [
     {
         filepath: 'screenshots/shot124.png',
         voddate: '6-6-2023',
-        game: 'Counter Strike: Global Offensive',
+        game: 'Counter-Strike',
         vodlink: 'https://www.youtube.com/watch?v=DGiJMFLMyWo'
     },
         {
@@ -1097,7 +1097,7 @@ export const vods = [
     {
         filepath: 'screenshots/shot184.png',
         voddate: '4-23-2025',
-        game: 'Counter-Strike 2',
+        game: 'Counter-Strike',
         vodlink: 'https://www.youtube.com/watch?v=vGqSWMqZsKY'
     },
     {
