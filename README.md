@@ -2,7 +2,15 @@ This is a group repo to add screenshots and VOD info to the squeextionary array.
 
 <h1>Uploaded 201 screenshots</h1>
 <b>Last day added from SqueexVODs: 6/23/2025</b><br>
-Anything else added should be uploaded after that
+Anything else added should be uploaded after that<br><br>
+
+<h5>Summary of Current Games in array:</h5>
+
+- "Super Mario 64" and "Just Chatting" are tied for most frequent with 9 appearances each
+- "IRL": 6
+- "Counter-Strike" and "GTA V": 5
+- "Fall Guys" and "Minecraft": 3
+- 132 other games appear either once or twice
 
 <h3>Squeextionary info:</h3>
 <ul>
